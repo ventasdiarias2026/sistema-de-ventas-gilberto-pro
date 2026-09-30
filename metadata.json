@@ -1,0 +1,7 @@
+{
+  "name": "GESTION DE SEGUIMIENTO GILBERTO PRO",
+  "description": "Sistema comercial interactivo para seguimiento de ventas, metas de telecomunicaciones, cálculo de comisiones y alertas inteligentes de renovación a 6 meses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
